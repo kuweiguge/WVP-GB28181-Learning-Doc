@@ -1,0 +1,25 @@
+{
+  "name": "wvp-gb28181-learning-doc",
+  "version": "1.0.0",
+  "description": "WVP-GB28181-Learning文档",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuweiguge/WVP-GB28181-Learning-Doc.git"
+  },
+  "author": "zhengwei",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/kuweiguge/WVP-GB28181-Learning-Doc/issues"
+  },
+  "homepage": "https://github.com/kuweiguge/WVP-GB28181-Learning-Doc#readme",
+  "devDependencies": {
+    "@vuepress/client": "^2.0.0-rc.0",
+    "vue": "^3.3.9",
+    "vuepress": "^2.0.0-rc.0"
+  }
+}
