@@ -4,7 +4,7 @@ export default defineUserConfig({
     lang: 'zh-CN',
     title: 'WVP-GB28181-Learning Doc',
     description: 'Learn to develop web video platforms.',
-    base: '/wvp-doc/',
+    base: '/WVP-GB28181-Learning-Doc/',
     locales: {
         '/': {
             lang: 'zh-CN',
