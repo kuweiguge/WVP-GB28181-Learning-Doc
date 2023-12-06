@@ -11,10 +11,10 @@ actions:
     type: secondary
 features:
   - title: 简化开发
-    details: 通过简化开发流程，提高开发效率。
+    details: 简化开发。
   - title: 统一规范
-    details: 一次开发适配多种MQ消息。
+    details: 统一规范。
   - title: 快速集成
-    details: 基于Spring Boot 快速集成。
+    details: 快速集成。
 footer: BSD 2-Clause License | Copyright © 2023-present kuweiguge
 ---

@@ -19,3 +19,5 @@ sip:
 ```
 8. 启动项目观察日志
 ![](../asserts/lesson1/camera_regist_idea.png)
+9. 也可以通过sip消息工具[sngrep](../data/sngrep.md)来查看sip日志，更加清晰方便。
+10. 暂时没有摄像头的话，可以使用[sipp](../data/sipp.md)工具来模拟。

@@ -18,6 +18,9 @@ export default defineUserConfig({
     theme: defaultTheme({
 //        logo: "/images/logo.png",
 //        logoDark: "/images/logo-d.png",
+        tip: '提示',
+        tip: '提示',
+        warning: '注意',
         locales: {
             '/': {
                 label: '简体中文',
@@ -32,7 +35,9 @@ export default defineUserConfig({
                             text: '指南',
                             children: [
                                 '/guide/',
-                                '/guide/注册流程'
+                                '/guide/GB28181',
+                                '/guide/sip',
+                                '/guide/信令流程'
                             ]
                         }
                     ],
