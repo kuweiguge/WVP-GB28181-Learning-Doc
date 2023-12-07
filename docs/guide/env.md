@@ -1,0 +1,1 @@
+docker run -d --restart always --privileged -p 3306:3306 --name=mysql -e MYSQL_ROOT_PASSWORD=root mysql:8.0.18 --skip-name-resolve
