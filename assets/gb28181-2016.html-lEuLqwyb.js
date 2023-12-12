@@ -1,0 +1,1 @@
+import{_ as e,o as t,c,a as o}from"./app-NmqmjXM3.js";const s={},_=o("embed",{src:"/wvp-doc/gb/GB28181-2016.pdf",type:"application/pdf",width:"100%",height:"700px"},null,-1),n=[_];function a(r,d){return t(),c("div",null,n)}const i=e(s,[["render",a],["__file","gb28181-2016.html.vue"]]);export{i as default};

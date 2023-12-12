@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as t,a as o}from"./app-NmqmjXM3.js";const n={},r=o("p",null,"docker run -d --restart always --privileged -p 3306:3306 --name=mysql -e MYSQL_ROOT_PASSWORD=root mysql:8.0.18 --skip-name-resolve",-1),_=[r];function a(c,l){return s(),t("div",null,_)}const i=e(n,[["render",a],["__file","env.html.vue"]]);export{i as default};
